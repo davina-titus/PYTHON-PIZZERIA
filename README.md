@@ -34,4 +34,4 @@ python "PYTHON PIZZERIA.py"
 - **Python**
 
 ---
-*Built as part of CS coursework @ University of Illinois Chicago*
+
